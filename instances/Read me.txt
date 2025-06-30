@@ -1,0 +1,35 @@
+This folder contains three datasets used in the study:
+
+1- Boccia's Instances:
+The original dataset proposed by Boccia et al. (2023), including 1080 instances with the following characteristics:
+
+-Number of jobs: 50, 100, 150, 200
+
+-Number of AGVs: 2, 5, 10
+
+-Various transportation times and energy consumption settings
+
+2- New Large-Scale Instances:
+A set of 30 newly generated instances, following the structure of Boccia et al. (2023), but designed for larger settings:
+
+-300 jobs
+
+-20 AGVs
+
+3-Case Study:
+A modified version of the case study by Kabir and Suzuki (2019), adapted to a layout with:
+
+-200 jobs
+
+-Up to 10 AGVs
+
+For more information, please refer to the corresponding subfolders.
+
+References:
+Boccia, M., Masone, A., Sterle, C., & Murino, T. (2023).
+The parallel AGV scheduling problem with battery constraints: A new formulation and a matheuristic approach.
+European Journal of Operational Research, 307(2), 590–603.
+
+Kabir, Q. S., & Suzuki, Y. (2019).
+Comparative analysis of different routing heuristics for the battery management of automated guided vehicles.
+International Journal of Production Research, 57(2), 624–641.
